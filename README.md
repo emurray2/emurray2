@@ -1,6 +1,3 @@
-<a href="https://githubtrends.io">
-  <img align="center" src="https://api.githubtrends.io/user/svg/emurray2/langs?time_range=one_year&include_private=True&theme=bright_lights" />
-</a>
-<a href="https://githubtrends.io">
-  <img align="center" src="https://api.githubtrends.io/user/svg/emurray2/repos?time_range=one_year&theme=bright_lights" />
-</a>
+![My Stats](https://github-readme-stats.vercel.app/api?username=emurray2)
+
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emurray2&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=pie)
